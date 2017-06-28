@@ -25,8 +25,8 @@
         android:layout_height="0dip"
         android:clickable="true"
         android:layout_weight="1"
-        android:listSelector="#00000000"
-        android:cacheColorHint="#00000000" />
+        android:listSelector="@color/new_event_hint_text_color"
+        android:cacheColorHint="@color/new_event_hint_text_color" />
     <Button
         android:id="@+id/manage_sync_set"
         android:layout_width="wrap_content"
